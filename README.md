@@ -1,5 +1,5 @@
 # SimpleClock
-A simple CLI Timer [ just for Js practice ]
+A simple CLI Timer written in Js
 
 ## How to use it ?? 
   * Open a new terminal
